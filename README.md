@@ -1,7 +1,7 @@
 # testing-git-hooks
 Testing out Git hooks.
 
-From [https://www.atlassian.com/git/tutorials/git-hooks](Atlassian tutorial):
+From [Atlassian tutorial](https://www.atlassian.com/git/tutorials/git-hooks):
 
 ## Scope of Hooks
 Hooks are local to any given Git repository, and they are _not_ copied over 
